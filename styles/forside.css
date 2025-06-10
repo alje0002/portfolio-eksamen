@@ -17,7 +17,7 @@ article {
 }
 
 h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Inter", sans-serif;
   color: var(--tredje-color);
   font-size: 4rem;
   font-weight: bold;
