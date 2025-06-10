@@ -188,7 +188,6 @@ section {
 
 .uddannelse_erfaring_kasse {
   background-color: var(--sjette-color);
-
 }
 
 .uddannelse_erfaring_indhold {
@@ -214,7 +213,6 @@ hr {
 /************ TABLET VERSION ************/
 /************ TABLET VERSION ************/
 @media screen and (min-width: 650px) {
-
   /************ TEKST START ************/
   h1 {
     font-size: 4rem;
@@ -313,7 +311,6 @@ hr {
 /************ DESKTOP VERSION ************/
 /************ DESKTOP VERSION ************/
 @media screen and (min-width: 1000px) {
-
   /************ TEKST START ************/
   h1 {
     font-size: 4.4rem;
@@ -335,7 +332,6 @@ hr {
   a {
     font-size: 1rem;
   }
-
 
   /* KNAP DESKTOP */
   .knap {
@@ -365,7 +361,6 @@ hr {
       font-size: 1.4rem;
     }
   }
-
 
   img {
     align-self: center;
@@ -402,7 +397,6 @@ hr {
   .uddannelse_erfaring_indhold {
     padding: 5% 7%;
   }
-
 
   .uddannelse_erfaring_tekst {
     align-items: center;
