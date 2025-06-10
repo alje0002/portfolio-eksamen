@@ -101,7 +101,6 @@ footer {
   width: 50px;
 }
 
-
 .footer_iconer {
   display: grid;
   color: var(--femte-color);
@@ -119,7 +118,6 @@ footer {
 /************ FOOTER SLUT ************/
 
 @media screen and (min-width: 650px) {
-
   .head_menu a,
   .menu_tema {
     font-size: 1.5rem;
@@ -131,7 +129,6 @@ footer {
 }
 
 @media screen and (min-width: 1000px) {
-
   .head_menu a,
   .menu_tema {
     font-size: 1.7rem;
